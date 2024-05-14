@@ -1,4 +1,6 @@
-# Hello World! I'm Dara 🚀
+# ☖▲☈▲
+
+## Hello! I'm Dara 
 
 Welcome to my digital realm where pixels dance and vertices play hide and seek. 
 I'm a Computer Graphics Enthusiast turned Wizard, mastering the arcane arts of Unreal Engine, Blender, and AI Art Generation.
