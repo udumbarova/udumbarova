@@ -35,7 +35,7 @@ I'm a Computer Graphics Enthusiast turned Wizard, mastering the arcane arts of U
 
 ## Let's Connect!
 
-X: [@darissso]([@darissso](https://x.com/darissso))
+X: [@darissso](https://x.com/darissso)
 
 ## Want to Collaborate?
 
