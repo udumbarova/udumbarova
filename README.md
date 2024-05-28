@@ -23,15 +23,6 @@ I'm a Computer Graphics Enthusiast turned Wizard, mastering the arcane arts of U
 - **TensorFlow**: Teaching neural networks to appreciate art.
 - **Python & C++**: My trusty sidekicks in all coding duels.
 
-## Current Quests 🗺️
-
-- 🌌 **Expanding the Universe**: Currently working on a top-secret project that might just be the next big thing.
-- 🤖 **AI Art Show**: Preparing an exhibition where AI-generated art will wrestle human creativity. Stay tuned for the battle of the century!
-
-## Side Quests (Fun Facts) 🎈
-
-- 🍪 I bake cookies that look like famous video game characters. Yes, they taste as legendary as they look!
-- 🎮 High score in life: Successfully rigged my coffee maker to start brewing via a Python script. Efficiency level: 9000!
 
 <br>
 <hr>
