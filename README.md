@@ -33,12 +33,17 @@ I'm a Computer Graphics Enthusiast turned Wizard, mastering the arcane arts of U
 - 🍪 I bake cookies that look like famous video game characters. Yes, they taste as legendary as they look!
 - 🎮 High score in life: Successfully rigged my coffee maker to start brewing via a Python script. Efficiency level: 9000!
 
+<br>
+<hr>
+<br>
+
 ## Let's Connect!
 
 X: [@darissso](https://x.com/darissso)
 
 ## Want to Collaborate?
 
-👾 Whether you're a fellow coder, an artist, or a mythical creature, I'm always open to cool projects and fiery discussions. Let's create something Unreal together!
+👾 Whether you're a fellow coder, an artist, or a mythical creature, I'm always open to cool projects and fiery discussions. 
 
+Let's create something Unreal together!
 Drop me a line at [daraudumbara@gmail.com](mailto:daraudumbara@gmail.com) or summon me in your nearest digital realm.
