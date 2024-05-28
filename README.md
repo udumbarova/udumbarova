@@ -22,6 +22,10 @@ I'm a Computer Graphics Enthusiast turned Wizard, mastering the arcane arts of U
 - **OpenCV**: Peeking into the matrix of pixels.
 - **TensorFlow**: Teaching neural networks to appreciate art.
 - **Python & C++**: My trusty sidekicks in all coding duels.
+- **Three.js**: Rendering stunning 3D graphics on the web.
+- **TypeScript**: Adding type safety to my JavaScript adventures.
+- **GLSL/Shaders**: Crafting mesmerizing visual effects and transformations.
+- **Docker**: Containerizing chaos into neat, portable environments.
 
 
 <br>
