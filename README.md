@@ -45,5 +45,7 @@ X: [@darissso](https://x.com/darissso)
 
 👾 Whether you're a fellow coder, an artist, or a mythical creature, I'm always open to cool projects and fiery discussions. 
 
-Let's create something Unreal together!
-Drop me a line at [daraudumbara@gmail.com](mailto:daraudumbara@gmail.com) or summon me in your nearest digital realm.
+<br>
+
+### Let's create something Unreal together!
+Drop me a line at [daraudumbara@gmail.com](mailto:daraudumbara@gmail.com) <br> or summon me in your nearest digital realm.
