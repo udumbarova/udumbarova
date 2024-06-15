@@ -32,15 +32,14 @@ I'm a Computer Graphics Enthusiast turned Wizard, mastering the arcane arts of U
 <hr>
 <br>
 
-## Let's Connect!
-
-X: [@darissso](https://x.com/darissso)
 
 ## Want to Collaborate?
 
 👾 Whether you're a fellow coder, an artist, or a mythical creature, I'm always open to cool projects and fiery discussions. 
 
-<br>
-
 ### Let's create something Unreal together!
-Drop me a line at [daraudumbara@gmail.com](mailto:daraudumbara@gmail.com) <br> or summon me in your nearest digital realm.
+Drop me a line at [daraudumbara@gmail.com](mailto:daraudumbara@gmail.com) , X: [@darissso](https://x.com/darissso) <br> or summon me in your nearest digital realm.
+
+
+
+
