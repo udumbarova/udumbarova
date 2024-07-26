@@ -19,6 +19,8 @@ I'm a Computer Graphics Enthusiast turned Wizard, mastering the arcane arts of U
 
 - **Unreal Engine**: Crafting epic game scenes and not-so-epic bugs.
 - **Blender**: My digital clay, shaping the mesh of tomorrow.
+- **Houdini**: Procedural content generation and simulation.
+- **Substance Painter**: Adding realistic textures to 3D models.
 - **OpenCV**: Peeking into the matrix of pixels.
 - **TensorFlow**: Teaching neural networks to appreciate art.
 - **Python & C++**: My trusty sidekicks in all coding duels.
